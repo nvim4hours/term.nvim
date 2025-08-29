@@ -1,4 +1,4 @@
-*term.txt*     For Neovim <= infinity(i think)     Last change: 2025 August 17
+*term.txt*     For Neovim <= infinity(i think)     Last change: 2025 August 29
 
 ==============================================================================
 Table of Contents                                     *term-table-of-contents*
